@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 package Ordenar;
-   import Ordenar.Hash;
 import java.util.Scanner;
 /**
  *
